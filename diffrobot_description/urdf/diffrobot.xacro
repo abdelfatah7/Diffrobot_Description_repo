@@ -215,7 +215,7 @@
     <visual name="camera_link_visual">
         <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0"/>
         <geometry>
-            <box size="0.1 0.1 0.1"/>
+           <mesh filename="package://diffrobot_description/meshes/kinect sensor.dae"/>
         </geometry>
         <material name="">
             <color rgba="0.0 1.0 0.0 1.0"/>

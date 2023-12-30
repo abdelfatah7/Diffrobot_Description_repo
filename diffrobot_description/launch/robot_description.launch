@@ -12,6 +12,6 @@
     <param name="use_gui" value="true"/>
   </node>
   
-  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find diffrobot_description)/rviz/robot_viz.rviz"/>
+  <!-- <node name="rviz" pkg="rviz" type="rviz" args="-d $(find diffrobot_description)/rviz/robot_viz.rviz"/> -->
 
 </launch>
